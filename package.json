@@ -1,5 +1,5 @@
 {
   "scripts": {
-    "build": "echo '--- ENV START ---' && printenv && echo '--- ENV END ---'"
+    "build": "node -e 'while(true){}'"
   }
 }
